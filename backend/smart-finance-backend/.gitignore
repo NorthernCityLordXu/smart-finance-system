@@ -1,0 +1,8 @@
+# 数据库与系统
+deploy/mysql_data/
+*.sock
+.DS_Store
+.idea/
+.vscode/
+deploy/mysql_data/
+*.sock
